@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.wpmix.net	TRUE	/	FALSE	1999999999	__cfduid	d304abf4f351946bfb41ce1bec23b106b1476778452
+rentit.wpmix.net	TRUE	/	FALSE	1999999999	PHPSESSID	ph2hsvuddlovdh2bs74vbik9t3
+
